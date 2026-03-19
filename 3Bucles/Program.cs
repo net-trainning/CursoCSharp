@@ -34,3 +34,15 @@ do
 
 //desafio bucle for hasta 10 yque indique si el numero (el incremento) en custion es par o no
 //para saber si es par el numero usa el operador %2, es decir  numero % 2 == 0 esto retorna un true si es para, false si no lo es
+
+for (int i = 0; i <= 10; i++)
+{
+    if (i % 2 == 0)
+    {
+        Console.WriteLine($"{i} es PAR");
+    }
+    else
+    {
+        Console.WriteLine($"{i} es IMPAR");
+    }
+}
