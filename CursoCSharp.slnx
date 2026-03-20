@@ -3,4 +3,5 @@
   <Project Path="2Condicionales/2Condicionales.csproj" />
   <Project Path="3Bucles/3Bucles.csproj" />
   <Project Path="4Estructuras/4Estructuras.csproj" />
+  <Project Path="5Metodos/5Metodos.csproj" />
 </Solution>
